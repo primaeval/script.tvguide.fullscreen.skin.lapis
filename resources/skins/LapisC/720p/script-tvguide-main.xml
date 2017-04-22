@@ -391,7 +391,7 @@
                     <posy>0</posy>
                     <width>270</width>
                     <height>30</height>
-                    <textcolor>steelblue</textcolor>
+                    <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
                     <font>font12</font>
                     <aligny>center</aligny>
@@ -414,7 +414,7 @@
                     <posy>0</posy>
                     <width>272</width>
                     <height>30</height>
-                    <textcolor>steelblue</textcolor>
+                    <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
                     <font>font12</font>
                     <aligny>center</aligny>
@@ -437,7 +437,7 @@
                     <posy>0</posy>
                     <width>272</width>
                     <height>30</height>
-                    <textcolor>steelblue</textcolor>
+                    <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
                     <font>font12</font>
                     <aligny>center</aligny>
@@ -460,7 +460,7 @@
                     <posy>0</posy>
                     <width>270</width>
                     <height>30</height>
-                    <textcolor>steelblue</textcolor>
+                    <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
                     <font>font12</font>
                     <aligny>center</aligny>
@@ -498,7 +498,7 @@
                     <posy>0</posy>
                     <width>270</width>
                     <height>30</height>
-                    <textcolor>steelblue</textcolor>
+                    <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
                     <font>font10</font>
                     <align>right</align>
@@ -530,7 +530,7 @@
                     <font>font13_title</font>
                     <align>center</align>
                     <aligny>center</aligny>
-                    <textcolor>steelblue</textcolor>
+                    <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
                     <shadowcolor></shadowcolor>
                     <label>$INFO[System.Time]</label>
@@ -1445,7 +1445,7 @@
                 <lefttexture />
                 <righttexture />
                 <texturebg  colordiffuse="">invisible.png</texturebg>
-                <midtexture colordiffuse="steelblue">tvg-button-focus.png</midtexture>
+                <midtexture colordiffuse="white">tvg-button-focus.png</midtexture>
                 <visible>IntegerGreaterThan(Control.GetLabel(7026),0)</visible>
             </control>
             <control type="textbox" id="7022">
