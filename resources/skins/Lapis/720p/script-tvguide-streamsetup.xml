@@ -85,7 +85,7 @@
             <posy>100</posy>
             <width>1260</width>
             <height>530</height>
-            <texture>tvg-tv.png</texture>
+            <texture>tvgf-background.png</texture>
             <visible>true</visible>
         </control>
         <control type="image">
